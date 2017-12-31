@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="switchImageMatrix"
+        android:text="跳转至ImageMatrix变化操作"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="switchXfermode"
+        android:text="跳转至画笔Xfermode方式展示圆角矩形图片"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="switchBitmapShader"
+        android:text="跳转至画笔BitmapShader方式展示圆形图片"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="switchReflect"
+        android:text="跳转至展示倒影图片效果"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="switchBitmapMesh"
+        android:text="跳转至BitmapMesh终极大招旗帜飘扬"
+        />
+</LinearLayout>

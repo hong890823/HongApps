@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../CircularLibrary" />
+            <option value="$PROJECT_DIR$/../DesignPatternProxy" />
+            <option value="$PROJECT_DIR$/../HongAnimator" />
+            <option value="$PROJECT_DIR$/../HongBarrage" />
+            <option value="$PROJECT_DIR$/../HongCamera" />
+            <option value="$PROJECT_DIR$/../HongCircleProgress" />
+            <option value="$PROJECT_DIR$/../HongConnectAssignWiFi" />
+            <option value="$PROJECT_DIR$/../HongFlowLayout" />
+            <option value="$PROJECT_DIR$/../HongIPCClient" />
+            <option value="$PROJECT_DIR$/../HongIPCServer" />
+            <option value="$PROJECT_DIR$/../HongInsideChangeTheme" />
+            <option value="$PROJECT_DIR$/../HongJavaReflection" />
+            <option value="$PROJECT_DIR$/../HongKeepAliveNotification" />
+            <option value="$PROJECT_DIR$/../HongLocation" />
+            <option value="$PROJECT_DIR$/../HongMatrix" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../HongMutihreadDownload" />
+            <option value="$PROJECT_DIR$/../HongOpenGL" />
+            <option value="$PROJECT_DIR$/../HongOutsideChangeTheme" />
+            <option value="$PROJECT_DIR$/../HongOutsideThemePlugin" />
+            <option value="$PROJECT_DIR$/../HongScratchCard" />
+            <option value="$PROJECT_DIR$/../HongTouchEvent" />
+            <option value="$PROJECT_DIR$/../HongTreeView" />
+            <option value="$PROJECT_DIR$/../HongWebView" />
+            <option value="$PROJECT_DIR$/../NDKLibrary" />
+            <option value="$PROJECT_DIR$/../app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

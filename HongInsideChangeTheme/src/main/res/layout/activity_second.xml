@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hong.honginsidechangetheme.view.HongViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hong_view="http://schemas.android.com/apk/res-auto"
+    xmlns:hv="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/hong_view_group"
+    android:background="?attr/hong_bg"
+    android:layout_height="match_parent">
+
+    <com.hong.honginsidechangetheme.view.HongView
+        android:id="@+id/hong_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="单击切换主题"
+        android:textSize="?attr/text_size"
+        android:textColor="?attr/text_color"
+        hv:text_size="40dp"
+        />
+
+    <!-- hong_view:text_size="40dp" 这种带有命名空间的自定义属性一般用在自定义控件中动态设置属性的时候，比如：
+        TypedArray a = context.obtainStyledAttributes(attrs,R.styleable.hv);
+        buttonNum = a.getResourceId(R.styleable.hv_text_size, 5);
+     -->
+</com.hong.honginsidechangetheme.view.HongViewGroup>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularLibrary/CircularLibrary.iml" filepath="$PROJECT_DIR$/CircularLibrary/CircularLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatternProxy/DesignPatternProxy.iml" filepath="$PROJECT_DIR$/DesignPatternProxy/DesignPatternProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongAnimator/HongAnimator.iml" filepath="$PROJECT_DIR$/HongAnimator/HongAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongApps.iml" filepath="$PROJECT_DIR$/HongApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongBarrage/HongBarrage.iml" filepath="$PROJECT_DIR$/HongBarrage/HongBarrage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongCamera/HongCamera.iml" filepath="$PROJECT_DIR$/HongCamera/HongCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongCircleProgress/HongCircleProgress.iml" filepath="$PROJECT_DIR$/HongCircleProgress/HongCircleProgress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongConnectAssignWiFi/HongConnectAssignWiFi.iml" filepath="$PROJECT_DIR$/HongConnectAssignWiFi/HongConnectAssignWiFi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongFlowLayout/HongFlowLayout.iml" filepath="$PROJECT_DIR$/HongFlowLayout/HongFlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongIPCClient/HongIPCClient.iml" filepath="$PROJECT_DIR$/HongIPCClient/HongIPCClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongIPCServer/HongIPCServer.iml" filepath="$PROJECT_DIR$/HongIPCServer/HongIPCServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongInsideChangeTheme/HongInsideChangeTheme.iml" filepath="$PROJECT_DIR$/HongInsideChangeTheme/HongInsideChangeTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongJavaProxy/HongJavaProxy.iml" filepath="$PROJECT_DIR$/HongJavaProxy/HongJavaProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongJavaReflection/HongJavaReflection.iml" filepath="$PROJECT_DIR$/HongJavaReflection/HongJavaReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongKeepAliveNotification/HongKeepAliveNotification.iml" filepath="$PROJECT_DIR$/HongKeepAliveNotification/HongKeepAliveNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongLocation/HongLocation.iml" filepath="$PROJECT_DIR$/HongLocation/HongLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongMatrix/HongMatrix.iml" filepath="$PROJECT_DIR$/HongMatrix/HongMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongMultiDex/HongMultiDex.iml" filepath="$PROJECT_DIR$/HongMultiDex/HongMultiDex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongMutihreadDownload/HongMutihreadDownload.iml" filepath="$PROJECT_DIR$/HongMutihreadDownload/HongMutihreadDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongOpenGL/HongOpenGL.iml" filepath="$PROJECT_DIR$/HongOpenGL/HongOpenGL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongOutsideChangeTheme/HongOutsideChangeTheme.iml" filepath="$PROJECT_DIR$/HongOutsideChangeTheme/HongOutsideChangeTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongOutsideThemePlugin/HongOutsideThemePlugin.iml" filepath="$PROJECT_DIR$/HongOutsideThemePlugin/HongOutsideThemePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongScratchCard/HongScratchCard.iml" filepath="$PROJECT_DIR$/HongScratchCard/HongScratchCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongTouchEvent/HongTouchEvent.iml" filepath="$PROJECT_DIR$/HongTouchEvent/HongTouchEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongTreeView/HongTreeView.iml" filepath="$PROJECT_DIR$/HongTreeView/HongTreeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HongWebView/HongWebView.iml" filepath="$PROJECT_DIR$/HongWebView/HongWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NDKLibrary/NDKLibrary.iml" filepath="$PROJECT_DIR$/NDKLibrary/NDKLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

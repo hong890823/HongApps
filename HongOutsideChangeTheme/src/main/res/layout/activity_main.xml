@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_color"
+    tools:context="com.hong.hongoutsidechangetheme.MainActivity">
+
+    <TextView
+        android:id="@+id/text_view_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:onClick="changeTheme_1"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size"
+        android:text="换肤方案1（调用已经安装的APK换肤）" />
+
+    <TextView
+        android:id="@+id/text_view_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:onClick="changeTheme_2"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size"
+        android:text="换肤方案2（调用沙盒内未安装的APK插件换肤）" />
+</LinearLayout>

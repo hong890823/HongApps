@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hong.hongipcclient.MainActivity">
+
+    <EditText
+        android:id="@+id/aidl_num1_edt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="AIDL远程通信相加的第一个参数"
+        />
+
+    <EditText
+        android:id="@+id/aidl_num2_edt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="AIDL远程通信相加的第二个参数"
+        />
+    <TextView
+        android:id="@+id/aidl_result_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AIDL远程通信相加的结果"
+        android:onClick="AidlCompute"
+        android:layout_marginTop="50dp"
+        />
+    <TextView
+        android:id="@+id/aidl_add_person_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AIDL远程通信增加自定义实体类Person"
+        android:onClick="AidlAddPerson"
+        android:layout_marginTop="50dp"
+        />
+    <TextView
+        android:id="@+id/switch_messenger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="跳转至Messenger跨进程通信"
+        android:onClick="switchToMessenger"
+        android:layout_marginTop="50dp"
+        />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自定义一些属性-->
+    <declare-styleable name="hv">
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_color" format="reference|color"/>
+        <attr name="hong_bg" format="reference"/>
+    </declare-styleable>
+</resources>

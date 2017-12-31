@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- 自定义红色主题，给自定义属性赋值 -->
+    <style name="theme_red" parent="@android:style/Theme">
+        <item name="text_size">36dp</item>
+        <item name="text_color">@color/colorAccent</item>
+        <item name="hong_bg">@mipmap/bg_theme_red</item>
+    </style>
+
+    <!-- 自定义蓝色主题，给自定义属性赋值 -->
+    <style name="theme_blue" parent="@android:style/Theme">
+        <item name="text_size">66dp</item>
+        <item name="text_color">@color/colorPrimary</item>
+        <item name="hong_bg">@mipmap/bg_theme_blue</item>
+    </style>
+
+</resources>
