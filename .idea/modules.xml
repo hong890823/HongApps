@@ -2,34 +2,34 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CircularLibrary/CircularLibrary.iml" filepath="$PROJECT_DIR$/CircularLibrary/CircularLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPatternProxy/DesignPatternProxy.iml" filepath="$PROJECT_DIR$/DesignPatternProxy/DesignPatternProxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongAnimator/HongAnimator.iml" filepath="$PROJECT_DIR$/HongAnimator/HongAnimator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongApps.iml" filepath="$PROJECT_DIR$/HongApps.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongBarrage/HongBarrage.iml" filepath="$PROJECT_DIR$/HongBarrage/HongBarrage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongCamera/HongCamera.iml" filepath="$PROJECT_DIR$/HongCamera/HongCamera.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongCircleProgress/HongCircleProgress.iml" filepath="$PROJECT_DIR$/HongCircleProgress/HongCircleProgress.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongConnectAssignWiFi/HongConnectAssignWiFi.iml" filepath="$PROJECT_DIR$/HongConnectAssignWiFi/HongConnectAssignWiFi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongFlowLayout/HongFlowLayout.iml" filepath="$PROJECT_DIR$/HongFlowLayout/HongFlowLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongIPCClient/HongIPCClient.iml" filepath="$PROJECT_DIR$/HongIPCClient/HongIPCClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongIPCServer/HongIPCServer.iml" filepath="$PROJECT_DIR$/HongIPCServer/HongIPCServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongInsideChangeTheme/HongInsideChangeTheme.iml" filepath="$PROJECT_DIR$/HongInsideChangeTheme/HongInsideChangeTheme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongJavaProxy/HongJavaProxy.iml" filepath="$PROJECT_DIR$/HongJavaProxy/HongJavaProxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongJavaReflection/HongJavaReflection.iml" filepath="$PROJECT_DIR$/HongJavaReflection/HongJavaReflection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongKeepAliveNotification/HongKeepAliveNotification.iml" filepath="$PROJECT_DIR$/HongKeepAliveNotification/HongKeepAliveNotification.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongLocation/HongLocation.iml" filepath="$PROJECT_DIR$/HongLocation/HongLocation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongMatrix/HongMatrix.iml" filepath="$PROJECT_DIR$/HongMatrix/HongMatrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongMultiDex/HongMultiDex.iml" filepath="$PROJECT_DIR$/HongMultiDex/HongMultiDex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongMutihreadDownload/HongMutihreadDownload.iml" filepath="$PROJECT_DIR$/HongMutihreadDownload/HongMutihreadDownload.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongOpenGL/HongOpenGL.iml" filepath="$PROJECT_DIR$/HongOpenGL/HongOpenGL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongOutsideChangeTheme/HongOutsideChangeTheme.iml" filepath="$PROJECT_DIR$/HongOutsideChangeTheme/HongOutsideChangeTheme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongOutsideThemePlugin/HongOutsideThemePlugin.iml" filepath="$PROJECT_DIR$/HongOutsideThemePlugin/HongOutsideThemePlugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongScratchCard/HongScratchCard.iml" filepath="$PROJECT_DIR$/HongScratchCard/HongScratchCard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongTouchEvent/HongTouchEvent.iml" filepath="$PROJECT_DIR$/HongTouchEvent/HongTouchEvent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongTreeView/HongTreeView.iml" filepath="$PROJECT_DIR$/HongTreeView/HongTreeView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HongWebView/HongWebView.iml" filepath="$PROJECT_DIR$/HongWebView/HongWebView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NDKLibrary/NDKLibrary.iml" filepath="$PROJECT_DIR$/NDKLibrary/NDKLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HongApps.iml" filepath="$PROJECT_DIR$/.idea/HongApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircularLibrary/HongApps.CircularLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/CircularLibrary/HongApps.CircularLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatternProxy/HongApps.DesignPatternProxy.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatternProxy/HongApps.DesignPatternProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongAnimator/HongApps.HongAnimator.iml" filepath="$PROJECT_DIR$/.idea/modules/HongAnimator/HongApps.HongAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongBarrage/HongApps.HongBarrage.iml" filepath="$PROJECT_DIR$/.idea/modules/HongBarrage/HongApps.HongBarrage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongCamera/HongApps.HongCamera.iml" filepath="$PROJECT_DIR$/.idea/modules/HongCamera/HongApps.HongCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongCircleProgress/HongApps.HongCircleProgress.iml" filepath="$PROJECT_DIR$/.idea/modules/HongCircleProgress/HongApps.HongCircleProgress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongConnectAssignWiFi/HongApps.HongConnectAssignWiFi.iml" filepath="$PROJECT_DIR$/.idea/modules/HongConnectAssignWiFi/HongApps.HongConnectAssignWiFi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongFlowLayout/HongApps.HongFlowLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/HongFlowLayout/HongApps.HongFlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongIPCClient/HongApps.HongIPCClient.iml" filepath="$PROJECT_DIR$/.idea/modules/HongIPCClient/HongApps.HongIPCClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongIPCServer/HongApps.HongIPCServer.iml" filepath="$PROJECT_DIR$/.idea/modules/HongIPCServer/HongApps.HongIPCServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongInsideChangeTheme/HongApps.HongInsideChangeTheme.iml" filepath="$PROJECT_DIR$/.idea/modules/HongInsideChangeTheme/HongApps.HongInsideChangeTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongJavaProxy/HongApps.HongJavaProxy.iml" filepath="$PROJECT_DIR$/.idea/modules/HongJavaProxy/HongApps.HongJavaProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongJavaReflection/HongApps.HongJavaReflection.iml" filepath="$PROJECT_DIR$/.idea/modules/HongJavaReflection/HongApps.HongJavaReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongKeepAliveNotification/HongApps.HongKeepAliveNotification.iml" filepath="$PROJECT_DIR$/.idea/modules/HongKeepAliveNotification/HongApps.HongKeepAliveNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongLocation/HongApps.HongLocation.iml" filepath="$PROJECT_DIR$/.idea/modules/HongLocation/HongApps.HongLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongMatrix/HongApps.HongMatrix.iml" filepath="$PROJECT_DIR$/.idea/modules/HongMatrix/HongApps.HongMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongMultiDex/HongApps.HongMultiDex.iml" filepath="$PROJECT_DIR$/.idea/modules/HongMultiDex/HongApps.HongMultiDex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongMutihreadDownload/HongApps.HongMutihreadDownload.iml" filepath="$PROJECT_DIR$/.idea/modules/HongMutihreadDownload/HongApps.HongMutihreadDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongOpenGL/HongApps.HongOpenGL.iml" filepath="$PROJECT_DIR$/.idea/modules/HongOpenGL/HongApps.HongOpenGL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongOutsideChangeTheme/HongApps.HongOutsideChangeTheme.iml" filepath="$PROJECT_DIR$/.idea/modules/HongOutsideChangeTheme/HongApps.HongOutsideChangeTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongOutsideThemePlugin/HongApps.HongOutsideThemePlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/HongOutsideThemePlugin/HongApps.HongOutsideThemePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongScratchCard/HongApps.HongScratchCard.iml" filepath="$PROJECT_DIR$/.idea/modules/HongScratchCard/HongApps.HongScratchCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongTouchEvent/HongApps.HongTouchEvent.iml" filepath="$PROJECT_DIR$/.idea/modules/HongTouchEvent/HongApps.HongTouchEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongTreeView/HongApps.HongTreeView.iml" filepath="$PROJECT_DIR$/.idea/modules/HongTreeView/HongApps.HongTreeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongWebView/HongApps.HongWebView.iml" filepath="$PROJECT_DIR$/.idea/modules/HongWebView/HongApps.HongWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NDKLibrary/HongApps.NDKLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/NDKLibrary/HongApps.NDKLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HongApps.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HongApps.app.iml" />
     </modules>
   </component>
 </project>

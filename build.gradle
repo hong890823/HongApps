@@ -2,12 +2,14 @@
 
 buildscript {
     repositories {
+        google()
         jcenter()
+        mavenCentral()
     }
     dependencies {
         //这个是Google的Gradle插件的版本，和Gradle官方没有关系。
         //AS能用Gradle进行构建也是因为这个插件的原因
-        classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'com.android.tools.build:gradle:3.1.0'
         //由于HongMultiDex这个Module的需要，暂时用下面的gradle插件版本，等以后调好了再改回来
 //        classpath 'com.android.tools.build:gradle:1.3.1'
     }
@@ -15,7 +17,9 @@ buildscript {
 
 allprojects {
     repositories {
+        google()
         jcenter()
+        mavenCentral()
     }
 }
 
