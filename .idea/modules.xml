@@ -28,7 +28,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongTouchEvent/HongApps.HongTouchEvent.iml" filepath="$PROJECT_DIR$/.idea/modules/HongTouchEvent/HongApps.HongTouchEvent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongTreeView/HongApps.HongTreeView.iml" filepath="$PROJECT_DIR$/.idea/modules/HongTreeView/HongApps.HongTreeView.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HongWebView/HongApps.HongWebView.iml" filepath="$PROJECT_DIR$/.idea/modules/HongWebView/HongApps.HongWebView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NDKLibrary/HongApps.NDKLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/NDKLibrary/HongApps.NDKLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HongApps.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HongApps.app.iml" />
     </modules>
   </component>

@@ -19,6 +19,16 @@ public class IMyAidlService extends Service{
     @Override
     public IBinder onBind(Intent intent) {
         persons = new ArrayList<>();
+        try {
+            iBinder.linkToDeath(new IBinder.DeathRecipient() {
+                @Override
+                public void binderDied() {
+
+                }
+            },0);
+        } catch (RemoteException e) {
+            e.printStackTrace();
+        }
         return iBinder;
     }
 

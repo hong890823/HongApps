@@ -1,17 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 26
     buildToolsVersion "23.0.2"
     defaultConfig {
         applicationId "com.hong.app"
         minSdkVersion 14
-        targetSdkVersion 23
+        targetSdkVersion 26
         versionCode 1
         versionName "1.0"
         flavorDimensions "versionCode"
         manifestPlaceholders = [ UMENG_CHANNEL_VALUE:"default_channel" ]
-
     }
 
     signingConfigs {
@@ -41,7 +40,7 @@ android {
         wandoujia {
             minSdkVersion 14
             applicationId 'com.hong.app'
-            targetSdkVersion 23
+            targetSdkVersion 26
             versionCode 1
             versionName '1.0'
         }
